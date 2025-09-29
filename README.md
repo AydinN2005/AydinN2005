@@ -6,5 +6,5 @@
   About me 🙎‍♂️
 </h3>
 
-I am **Aydin Norouzi** > <sub> (he/him) </sub> a computer engineering student From **Iran 🇮🇷** .
+I am **Aydin Norouzi** a computer engineering student From **Iran 🇮🇷** .
 </div>
