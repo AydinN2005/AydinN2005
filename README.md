@@ -6,6 +6,5 @@
   About me 🙎‍♂️
 </h3>
 
-I am a computer engineering student and have always been curious about computers since I was a child, until I sat behind a computer at the age of 15 and started my new world with C#. I am always looking for new things to learn and want to ride the strong wave of this fascinating world. 
-
+I am **Aydin Norouzi** a computer engineering student From **Iran** .
 </div>
